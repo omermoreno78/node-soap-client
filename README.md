@@ -1,2 +1,2 @@
 # node-soap-client
-Node SOAP Client
+This is a little Node JS SOAP client example project.

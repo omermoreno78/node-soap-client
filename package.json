@@ -1,0 +1,36 @@
+{
+  "name": "node-soap-client",
+  "version": "1.0.0",
+  "description": "Node JS SOAP client example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon src/index.js",
+    "debug": "nodemon src/index.js --inspect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omermoreno78/node-soap-client.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "node-js",
+    "express",
+    "expressjs",
+    "express-js",
+    "soap",
+    "soap-client"
+  ],
+  "author": "Omer Moreno <omermoreno78@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omermoreno78/node-soap-client/issues"
+  },
+  "homepage": "https://github.com/omermoreno78/node-soap-client#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
