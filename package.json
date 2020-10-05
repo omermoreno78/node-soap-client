@@ -4,6 +4,7 @@
   "description": "Node JS SOAP client example.",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon src/index.js",
     "test": "nodemon src/index.js",
     "debug": "nodemon src/index.js --inspect"
   },
@@ -28,7 +29,8 @@
   },
   "homepage": "https://github.com/omermoreno78/node-soap-client#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "soap": "^0.33.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
