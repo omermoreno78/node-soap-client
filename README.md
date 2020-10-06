@@ -1,4 +1,4 @@
-# Node JS SOAP Client V1.0.0
+# Node JS SOAP Client V1.0.2
 This is a little Node JS SOAP client example project.
 
 ## Installation:
@@ -15,11 +15,10 @@ npm start
 
 ## Debug:
 ```
-npm debug
+npm run debug
 ```
 
 ## Test:
 1. Import the Postman collection to Postman:  
    **extras\postman\node-soap-client.postman_collection.json**
 2. Open the **Test** request and execute.
-
