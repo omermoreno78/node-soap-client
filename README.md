@@ -1,4 +1,4 @@
-# Node JS SOAP Client V1.0.1
+# Node JS SOAP Client V1.0.2
 This is a little Node JS SOAP client example project.
 
 ## Installation:
